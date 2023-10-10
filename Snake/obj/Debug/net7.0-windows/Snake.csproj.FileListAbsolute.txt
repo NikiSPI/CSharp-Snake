@@ -12,3 +12,17 @@ D:\Miscellaneous\JetBrains\Rider\Solutions\Snake\Snake\obj\Debug\net7.0-windows\
 D:\Miscellaneous\JetBrains\Rider\Solutions\Snake\Snake\obj\Debug\net7.0-windows\Snake.pdb
 D:\Miscellaneous\JetBrains\Rider\Solutions\Snake\Snake\obj\Debug\net7.0-windows\Snake.genruntimeconfig.cache
 D:\Miscellaneous\JetBrains\Rider\Solutions\Snake\Snake\obj\Debug\net7.0-windows\ref\Snake.dll
+D:\Other\JetBrains\Rider IDE\Solutions\Snake\Snake\bin\Debug\net7.0-windows\Snake.exe
+D:\Other\JetBrains\Rider IDE\Solutions\Snake\Snake\bin\Debug\net7.0-windows\Snake.deps.json
+D:\Other\JetBrains\Rider IDE\Solutions\Snake\Snake\bin\Debug\net7.0-windows\Snake.runtimeconfig.json
+D:\Other\JetBrains\Rider IDE\Solutions\Snake\Snake\bin\Debug\net7.0-windows\Snake.dll
+D:\Other\JetBrains\Rider IDE\Solutions\Snake\Snake\bin\Debug\net7.0-windows\Snake.pdb
+D:\Other\JetBrains\Rider IDE\Solutions\Snake\Snake\obj\Debug\net7.0-windows\Snake.GeneratedMSBuildEditorConfig.editorconfig
+D:\Other\JetBrains\Rider IDE\Solutions\Snake\Snake\obj\Debug\net7.0-windows\Snake.AssemblyInfoInputs.cache
+D:\Other\JetBrains\Rider IDE\Solutions\Snake\Snake\obj\Debug\net7.0-windows\Snake.AssemblyInfo.cs
+D:\Other\JetBrains\Rider IDE\Solutions\Snake\Snake\obj\Debug\net7.0-windows\Snake.csproj.CoreCompileInputs.cache
+D:\Other\JetBrains\Rider IDE\Solutions\Snake\Snake\obj\Debug\net7.0-windows\Snake.dll
+D:\Other\JetBrains\Rider IDE\Solutions\Snake\Snake\obj\Debug\net7.0-windows\refint\Snake.dll
+D:\Other\JetBrains\Rider IDE\Solutions\Snake\Snake\obj\Debug\net7.0-windows\Snake.pdb
+D:\Other\JetBrains\Rider IDE\Solutions\Snake\Snake\obj\Debug\net7.0-windows\Snake.genruntimeconfig.cache
+D:\Other\JetBrains\Rider IDE\Solutions\Snake\Snake\obj\Debug\net7.0-windows\ref\Snake.dll

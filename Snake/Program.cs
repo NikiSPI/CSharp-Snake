@@ -17,8 +17,8 @@ public class Frame : Form
         FormBorderStyle = FormBorderStyle.FixedSingle; //makes it unresizable
         Icon = Icon.ExtractAssociatedIcon(Path.GetDirectoryName(BackEnd.stackFrame.GetFileName()) + "\\Images\\SnakeIcon.ico");
         Text = " Hungry Snake";
-        const int scaleWidthAdd_ = 16, scaleHeightAdd_ = 39;
-        Size = new Size(BackEnd.WIDTH_ + scaleWidthAdd_, scoreLabel.Size.Height + BackEnd.HEIGHT_ + scaleHeightAdd_);
+        ClientSize = new Size(BackEnd.WIDTH_, scoreLabel.Size.Height + BackEnd.HEIGHT_); //.ClientSize method subtracts the border of the frame 
+        Location = new Point(10, 10);
         
         KeyPreview = true;
         KeyDown += BackEnd.DetectKey;
@@ -92,7 +92,7 @@ internal class BackEnd
 {
     public static StackFrame stackFrame = new StackTrace(new StackFrame(true)).GetFrame(0);
     
-    public const int sectionPixelWidth_ = 60, sectionPixelHeight_ = 60, sectionsInWidth_ = 17, sectionsInHeight_ = 15;
+    public const int sectionPixelWidth_ = 40, sectionPixelHeight_ = 40, sectionsInWidth_ = 17, sectionsInHeight_ = 15;
     public const int WIDTH_ = sectionPixelWidth_ * sectionsInWidth_, HEIGHT_ = sectionPixelHeight_ * sectionsInHeight_;
 
     private static Frame frame;
